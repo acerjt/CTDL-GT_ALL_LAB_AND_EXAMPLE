@@ -1,0 +1,4 @@
+﻿  Test2.cpp
+c:\users\asus\source\repos\project2\test2\test2.cpp(187): warning C4715: 'getnodes': not all control paths return a value
+c:\users\asus\source\repos\project2\test2\test2.cpp(235): warning C4715: 'InsertTree': not all control paths return a value
+  Test2.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Test2.exe

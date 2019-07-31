@@ -1,0 +1,4 @@
+﻿  Lab5_16521261_PhanMinhToan.cpp
+c:\users\asus\source\repos\project2\lab5\lab5_16521261_phanminhtoan.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asus\source\repos\project2\lab5\lab5_16521261_phanminhtoan.cpp(137): warning C4715: 'indexarraymax': not all control paths return a value
+  Lab5.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Lab5.exe

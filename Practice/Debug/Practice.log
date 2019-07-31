@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\project2\practice\source.cpp(406): warning C4101: 'i': unreferenced local variable
+c:\users\asus\source\repos\project2\practice\source.cpp(142): warning C4715: 'mucnode': not all control paths return a value
+  Practice.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Practice.exe

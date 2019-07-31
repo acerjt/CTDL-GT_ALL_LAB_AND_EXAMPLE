@@ -1,0 +1,9 @@
+﻿  Lab8_16521261_PhanMinhToan.cpp
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(217): warning C4018: '>': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(231): warning C4018: '<=': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(362): warning C4018: '>': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(387): warning C4018: '>': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(476): warning C4018: '>': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\lab8\lab8_16521261_phanminhtoan.cpp(488): warning C4715: 'InsertTree': not all control paths return a value
+  Lab8.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Lab8.exe

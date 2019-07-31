@@ -1,0 +1,6 @@
+﻿  Lab1_16521261_PhanMinhToan.cpp
+c:\users\asus\source\repos\project2\project2\lab1_16521261_phanminhtoan.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\project2\project2\lab1_16521261_phanminhtoan.cpp(422): warning C4101: 'i': unreferenced local variable
+c:\users\asus\source\repos\project2\project2\lab1_16521261_phanminhtoan.cpp(516): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\asus\source\repos\project2\project2\lab1_16521261_phanminhtoan.cpp(556): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Project2.exe

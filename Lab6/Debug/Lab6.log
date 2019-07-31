@@ -1,0 +1,3 @@
+﻿  Lab6_File2_16521261_PhanMinhToan.cpp
+c:\users\asus\source\repos\project2\lab6\lab6_file2_16521261_phanminhtoan.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\Lab6.exe

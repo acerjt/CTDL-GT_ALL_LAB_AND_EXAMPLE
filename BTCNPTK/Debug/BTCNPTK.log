@@ -1,0 +1,5 @@
+﻿  BTCNPTK_16521261_PhanMinhToan.cpp
+c:\users\asus\source\repos\project2\btcnptk\btcnptk_16521261_phanminhtoan.cpp(40): warning C4101: 'result': unreferenced local variable
+c:\users\asus\source\repos\project2\btcnptk\btcnptk_16521261_phanminhtoan.cpp(125): warning C4715: 'getnodes': not all control paths return a value
+c:\users\asus\source\repos\project2\btcnptk\btcnptk_16521261_phanminhtoan.cpp(188): warning C4715: 'inserttree': not all control paths return a value
+  BTCNPTK.vcxproj -> C:\Users\ASUS\source\repos\Project2\Debug\BTCNPTK.exe
